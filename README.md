@@ -15,4 +15,4 @@
 ### 人类目前最大定义到YB，1YB=10^21（1,000,000,000,000,000,000,000）KB  
 
 ### 开源地址：https://github.com/diandaokongge/38.rar  
-### © 2022 颠倒空格    版权所有   https://github.com/diandaokongge
+### Copyright © 2022 颠倒空格 All Rights Reserved.   https://github.com/diandaokongge
